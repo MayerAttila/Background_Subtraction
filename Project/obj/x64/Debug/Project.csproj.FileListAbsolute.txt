@@ -1,0 +1,135 @@
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\Project.exe.config
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\Project.exe
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\Project.pdb
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\Emgu.CV.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\cvextern.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\opencv_videoio_ffmpeg480_64.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\concrt140.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\msvcp140.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\msvcp140_1.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\msvcp140_2.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\msvcp140_atomic_wait.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\msvcp140_codecvt_ids.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\vcruntime140.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\vcruntime140_1.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\System.Buffers.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\System.Memory.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\System.Text.Json.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\obj\x64\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\obj\x64\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\obj\x64\Debug\Project.Form1.resources
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\obj\x64\Debug\Project.Properties.Resources.resources
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\obj\x64\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\obj\x64\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\obj\x64\Debug\Project.csproj.CopyComplete
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\obj\x64\Debug\Project.exe
+C:\Users\Student\Desktop\Mayer Attila\Project\Project\obj\x64\Debug\Project.pdb
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\Project.exe.config
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\Project.exe
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\Project.pdb
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\Emgu.CV.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\cvextern.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\opencv_videoio_ffmpeg480_64.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\concrt140.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\msvcp140.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\msvcp140_1.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\msvcp140_2.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\msvcp140_atomic_wait.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\msvcp140_codecvt_ids.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\vcruntime140.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\vcruntime140_1.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\System.Buffers.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\System.Memory.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\System.Text.Json.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\obj\x64\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\obj\x64\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\obj\x64\Debug\Project.Form1.resources
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\obj\x64\Debug\Project.Properties.Resources.resources
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\obj\x64\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\obj\x64\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\obj\x64\Debug\Project.csproj.CopyComplete
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\obj\x64\Debug\Project.exe
+C:\Users\Mayer A\Desktop\Ráááák\Project\Project\obj\x64\Debug\Project.pdb
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\Project.exe.config
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\Project.exe
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\Project.pdb
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\Emgu.CV.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\cvextern.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\opencv_videoio_ffmpeg480_64.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\concrt140.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\msvcp140.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\msvcp140_1.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\msvcp140_2.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\msvcp140_atomic_wait.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\msvcp140_codecvt_ids.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\vcruntime140.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\vcruntime140_1.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\System.Buffers.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\System.Memory.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\System.Text.Json.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\Mayer A\Desktop\vibe\Project\Project\obj\x64\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Mayer A\Desktop\vibe\Project\Project\obj\x64\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mayer A\Desktop\vibe\Project\Project\obj\x64\Debug\Project.Form1.resources
+C:\Users\Mayer A\Desktop\vibe\Project\Project\obj\x64\Debug\Project.Properties.Resources.resources
+C:\Users\Mayer A\Desktop\vibe\Project\Project\obj\x64\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Mayer A\Desktop\vibe\Project\Project\obj\x64\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Mayer A\Desktop\vibe\Project\Project\obj\x64\Debug\Project.csproj.CopyComplete
+C:\Users\Mayer A\Desktop\vibe\Project\Project\obj\x64\Debug\Project.exe
+C:\Users\Mayer A\Desktop\vibe\Project\Project\obj\x64\Debug\Project.pdb
+D:\Vibe\Project\Project\bin\x64\Debug\Project.exe.config
+D:\Vibe\Project\Project\bin\x64\Debug\Project.exe
+D:\Vibe\Project\Project\bin\x64\Debug\Project.pdb
+D:\Vibe\Project\Project\bin\x64\Debug\Emgu.CV.dll
+D:\Vibe\Project\Project\bin\x64\Debug\Emgu.CV.Bitmap.dll
+D:\Vibe\Project\Project\bin\x64\Debug\cvextern.dll
+D:\Vibe\Project\Project\bin\x64\Debug\opencv_videoio_ffmpeg480_64.dll
+D:\Vibe\Project\Project\bin\x64\Debug\concrt140.dll
+D:\Vibe\Project\Project\bin\x64\Debug\msvcp140.dll
+D:\Vibe\Project\Project\bin\x64\Debug\msvcp140_1.dll
+D:\Vibe\Project\Project\bin\x64\Debug\msvcp140_2.dll
+D:\Vibe\Project\Project\bin\x64\Debug\msvcp140_atomic_wait.dll
+D:\Vibe\Project\Project\bin\x64\Debug\msvcp140_codecvt_ids.dll
+D:\Vibe\Project\Project\bin\x64\Debug\vcruntime140.dll
+D:\Vibe\Project\Project\bin\x64\Debug\vcruntime140_1.dll
+D:\Vibe\Project\Project\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Vibe\Project\Project\bin\x64\Debug\System.Buffers.dll
+D:\Vibe\Project\Project\bin\x64\Debug\System.Drawing.Common.dll
+D:\Vibe\Project\Project\bin\x64\Debug\System.Memory.dll
+D:\Vibe\Project\Project\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\Vibe\Project\Project\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Vibe\Project\Project\bin\x64\Debug\System.Text.Encodings.Web.dll
+D:\Vibe\Project\Project\bin\x64\Debug\System.Text.Json.dll
+D:\Vibe\Project\Project\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\Vibe\Project\Project\bin\x64\Debug\System.ValueTuple.dll
+D:\Vibe\Project\Project\obj\x64\Debug\Project.csproj.AssemblyReference.cache
+D:\Vibe\Project\Project\obj\x64\Debug\Project.Form1.resources
+D:\Vibe\Project\Project\obj\x64\Debug\Project.Properties.Resources.resources
+D:\Vibe\Project\Project\obj\x64\Debug\Project.csproj.GenerateResource.cache
+D:\Vibe\Project\Project\obj\x64\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Vibe\Project\Project\obj\x64\Debug\Project.csproj.CopyComplete
+D:\Vibe\Project\Project\obj\x64\Debug\Project.exe
+D:\Vibe\Project\Project\obj\x64\Debug\Project.pdb

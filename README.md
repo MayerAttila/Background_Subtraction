@@ -8,4 +8,4 @@ The program can create two separate models: one for black-and-white video and an
 ## ViBe Algorithm 
 In my program, I have created two types of ViBe algorithms: one for analyzing black-and-white videos and another for analyzing color videos. Their operation is almost identical. In both cases, two nested for loops are employed to inspect the frame pixel by pixel. Since every pixel already has a background model, the program compare the value of the pixel being examined with the values in the background model. After this comparison, the program can determine whether the pixel is part of the foreground or the background. During runtime, the program continuously updates the background models associated with the pixels, striving for self-improvement.
 
-**Video Demo:**
+**Video Demo:** https://youtu.be/SHzDHNkYa_g
